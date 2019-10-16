@@ -1,5 +1,5 @@
- class Bike
-    def working?
-        return true
-    end
+class Bike
+  def working?
+    true
+  end
  end
